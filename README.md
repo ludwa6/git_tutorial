@@ -1,2 +1,5 @@
 # git_tutorial
-sandbox for learning git
+a sandbox for learning git
+
+## About This Tutorial
+in the first place, this is just a beautiful mess...
